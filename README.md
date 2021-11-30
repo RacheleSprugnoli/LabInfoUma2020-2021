@@ -12,3 +12,6 @@ Slide delle lezioni del "Laboratorio di Informatica Umanistica" tenuto nell'AA 2
 - 4 maggio 2021: introduzione alla network analysis. 
 - 11 maggio 2021: esercitazione su Gephi.
 - Tutorial di installazione: Java, Tint, Recogito, LibreOffice, Gephi, SublimeText.
+
+## Citazione:
+Rachele Sprugnoli. (2021, November 30). RacheleSprugnoli/LabInfoUma2020-2021: Release1. Zenodo. [https://doi.org/10.5281/zenodo.5743999](https://doi.org/10.5281/zenodo.5743999)
