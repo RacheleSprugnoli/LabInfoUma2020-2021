@@ -1,6 +1,6 @@
 # LabInfoUma2020-2021
 
-Slide delle lezione del "Laboratorio di Informatica Umanistica" tenuto nell'AA 2020-2021 all'Università Cattolica del Sacro Cuore.
+Slide delle lezioni del "Laboratorio di Informatica Umanistica" tenuto nell'AA 2020-2021 all'Università Cattolica del Sacro Cuore.
 
 - 23 febbraio 2021: introduzione al laboratorio.
 - 2 marzo 2021: dati strutturati e non strutturati. Strumenti: OCR - Tesseract, GutenTag, BootCat
